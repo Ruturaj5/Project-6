@@ -9,6 +9,13 @@ public class Git_Demo6
 		System.out.println( "method m6");
 
 	}
+	public void jay() 
+
+	{
+		System.out.println( "Jayshree");
+
+	}
+	
 	
 	public void m66() 
 
