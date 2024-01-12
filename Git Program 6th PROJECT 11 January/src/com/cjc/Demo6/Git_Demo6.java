@@ -16,6 +16,13 @@ public class Git_Demo6
 		System.out.println( "method m66");
 
 	}
+
+	public void m666() 
+
+	{
+		System.out.println( "method m666");
+
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Main method");
